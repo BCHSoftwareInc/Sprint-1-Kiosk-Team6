@@ -1,0 +1,11 @@
+
+ATTENDEE : print("what is your name")
+name = input()
+print(name)
+print("what is your email")
+email = input()
+print(email)
+print("+------------------------------------------+")
+print("|APEX ENTERTAINMENT PASS                   |")
+print("|------------------------------------------|")
+print("| ATTENDEE :   " + name.ljust(12) + "                |")
